@@ -57,7 +57,7 @@ $table_properties = array(
   'table_name'  =>  $table_name,
   'column_data' =>  $column_data
 );
-//
+//*** For Testing Purposes *** 
 // $table = new CreateTable($table_properties);
 // echo('<pre>');
 // print_r($table);
